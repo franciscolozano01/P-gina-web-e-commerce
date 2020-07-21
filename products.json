@@ -1,0 +1,28 @@
+{
+    "items":[
+        {
+            "id" : "1",
+            "nombre" : "Mesa de noche",
+            "precio" : "15.99",
+            "imagen" : "./images/product-1.jpeg"
+        },
+        {
+            "id" : "2",
+            "nombre" : "Mesa de tv",
+            "precio" : "12.99",
+            "imagen" : "./images/product-2.jpeg"
+        },
+        {
+            "id" : "3",
+            "nombre" : "Mesa de computador",
+            "precio" : "17.99",
+            "imagen" : "./images/product-3.jpeg"
+        },
+        {
+            "id" : "4",
+            "nombre" : "Mesa para exteriores",
+            "precio" : "20.99",
+            "imagen" : "./images/product-4.jpeg"
+        }
+    ]
+}
